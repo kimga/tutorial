@@ -1,4 +1,4 @@
 mysampletext
 add memo
 tutorial2
-
+commit상태 비교하기
