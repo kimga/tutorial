@@ -1,4 +1,4 @@
 mysampletext
 add memo
-tutorial2
+pull 원격 저장소의 내용을 취득하기
 commit상태 비교하기
